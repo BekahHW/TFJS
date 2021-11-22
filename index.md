@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TFJS Study Group!
 
 You can use the [editor on GitHub](https://github.com/BekahHW/TFJS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
