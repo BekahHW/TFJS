@@ -1,0 +1,7 @@
+## Models
+- Types of Models
+    - Layers
+    - Graph
+- Loading Models
+    - TFHUB
+        - https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2
